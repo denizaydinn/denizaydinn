@@ -8,7 +8,6 @@ I am Software Developer Intern and Management Information Systems student.
 
 * 🌍  I'm based in İstanbul
 * ✉️  You can contact me at [denizaydin2323@gmail.com](mailto:denizaydin2323@gmail.com)
-* 🚀  I'm currently working on [Dogus Technology](http://www.d-teknoloji.com.tr/)
 * 🧠  I'm learning .Net Core, React Js
 
 ### Skills
